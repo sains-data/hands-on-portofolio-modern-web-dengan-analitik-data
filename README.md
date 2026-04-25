@@ -1,6 +1,8 @@
-# 📘 Hands On Portofolio Modern Web dengan Analitik Data: Dari Coding ke Insight
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4b02df80-e547-44c0-ba47-bb7b57576e6f" width="350" alt="Cover-Book-DCI">
+</p>
 
-<img width="1275" height="1650" alt="Cover-Book-DCI" src="https://github.com/user-attachments/assets/4b02df80-e547-44c0-ba47-bb7b57576e6f" />
+# 📘 Hands On Portofolio Modern Web dengan Analitik Data: Dari Coding ke Insight
 
 ![Top Language](https://img.shields.io/badge/language-JavaScript-yellow)
 ![GitHub Version](https://img.shields.io/badge/version-1.0.0-blue)
