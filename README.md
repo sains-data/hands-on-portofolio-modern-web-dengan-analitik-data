@@ -1,5 +1,7 @@
 # 📘 Hands On Portofolio Modern Web dengan Analitik Data: Dari Coding ke Insight
 
+<img width="1275" height="1650" alt="Cover-Book-DCI" src="https://github.com/user-attachments/assets/4b02df80-e547-44c0-ba47-bb7b57576e6f" />
+
 ![Top Language](https://img.shields.io/badge/language-JavaScript-yellow)
 ![GitHub Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
