@@ -17,7 +17,7 @@ Repositori ini merupakan pusat dokumentasi dan kode sumber untuk proyek buku **"
 * **Asosiasi:** Anggota IKAPI
 * **Rencana Terbit:** April 2026
 * **Penulis:** Ardika Satria, Luluk Muthoharoh, Ira Safitri, & Khansa Salsabila Suhaimi
-* **Kontributor Mahasiswa:** Dzaki Ananda Bowo, Rolas Agusta Nugrahadi, Khairunnisa Maharani, Muhammad Fadil Alfaizi, Arya Muda Siregar & Nobel Nizam Fathirizki
+* **Kontributor Mahasiswa:** Khairunnisa Maharani, Dzaki Ananda Bowo, Rolas Agusta Nugrahadi, Muhammad Fadil Alfaizi, Arya Muda Siregar & Nobel Nizam Fathirizki
 * **Editor:** Harits Setyawan
 
 ---
